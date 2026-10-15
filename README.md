@@ -12,6 +12,7 @@
 1. 本遊戲為教學課堂用，靈感來自於網友《fab24hr 半導體晶圓廠打工人的一天》from [Marcel 大大](https://www.threads.com/@mrclty)。
 2. 並無任何商業或斗內。
 3. 內容如有引用錯誤，歡迎告知。
+4. 我個人推薦github內建的GitHub Codespaces功能，方法參考C。
 
 ---
 
